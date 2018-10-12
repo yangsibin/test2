@@ -5,3 +5,5 @@ def moon():
 		print('*'*i,end=' \n')
 		i+=1
 moon()
+
+print('i am jingli')
